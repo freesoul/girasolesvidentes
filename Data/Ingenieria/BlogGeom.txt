@@ -1,0 +1,332 @@
+En el Capítulo 0, los estudiantes conectan las ideas geométricas con cosas que ya 
+conocen: formas comunes (círculos, hexágonos, pentágonos), simetría por reflejo 
+exacto (o simetría de reflexión) y rectas y ángulos. Estudian matemáticas a través del 
+arte, lo que puede ser un contexto nuevo y motivador para ellos. Este enfoque está 
+diseñado para que se expandan y se conecten con la comprensión intuitiva que ya 
+poseen sobre las formas en general. Además de repasar conceptos matemáticos 
+conocidos, el Capítulo presenta la simetría de rotación, construcciones con compás 
+y regla no graduada y teselaciones. 
+
+El maestro de su estudiante puede seleccionar lecciones del Capítulo para repasar 
+habilidades e ideas que esta clase necesita para una mejor comprensión. También 
+puede usar el Capítulo como una pequeña introducción a los métodos de 
+Discovering Geometry para lograr una comprensión a fondo a través de la 
+investigación, el trabajo grupal y el uso de herramientas de geometría, y quizás 
+software. Mientras tanto, usted puede utilizar este tiempo para ayudar a establecer 
+los patrones de trabajo con su estudiante. 
+
+
+
+Simetría de rotación 
+
+La mayoría de las personas dicen que una figura es simétrica si tiene simetría por 
+reflejo exacto — un lado es el reflejo del otro. Existen también otros tipos de 
+simetría. El Capítulo presenta la simetría de rotación. Una figura tiene simetría de 
+rotación de orden 2 si se ve igual después de haberla girado media vuelta — o sea, 
+180 grados. Tiene simetría de orden 3 si se ve igual después de haberla girado un 
+tercio de vuelta — o sea, 120 grados, y así sucesivamente. La figura de la derecha por 
+ejemplo tiene simetría de rotación de orden 3. Todas las figuras se ven iguales 
+después de girarlas 360 grados, de modo que una figura que sólo satisface este 
+requisito no es considerada como figura con simetría de rotación. 
+
+Los estudiantes volverán a ver simetrías de reflexión y de rotación en el contexto de 
+las transformaciones del Capítulo 7. 
+
+
+
+
+Teselaciones 
+
+Si puede hacer varias baldosas, todas de la misma forma y utilizarlas para cubrir una 
+superficie plana, sin dejar espacios, entonces usted tiene una teselación, o patrón de 
+embaldosado. En el Capítulo los estudiantes ven unas pocas teselaciones. En el 
+Capítulo 7, estudiarán las propiedades de las formas que se pueden utilizar en una 
+teselación, como así también teselaciones con más de una forma. 
+
+
+
+Construcciones 
+
+Los matemáticos de la Grecia antigua creían que las formas más perfectas eran los 
+círculos y las líneas rectas, así que se pusieron a ver qué podían hacer con un compás 
+(para trazar círculos) y una regla no graduada (para trazar rectas). Como compás, 
+utilizaban una cuerda con una estaca atada a uno de los extremos. La regla no 
+graduada no tenía marcas, así que no podía utilizarse para medir. Sin embargo, 
+descubrieron que con estas herramientas podían construir muchas formas y 
+ángulos. Todo lo que pueda dibujarse con estas herramientas se denomina 
+construcción geométrica. 
+
+Aunque la mayoría de nosotros no tiene la misma idea de las formas perfectas que 
+tenían los griegos hace 2500 años, el estudio de las construcciones geométricas es 
+valioso para los estudiantes. Les proporciona una noción de formas y relaciones. Esta 
+noción es muy útil al estudiar conceptos geométricos y para el razonamiento lógico. 
+
+
+
+©2008 Key Curriculum Press 
+
+
+
+(continúa) 
+
+Discovering Geometry: Una guía para los padres 1 
+
+
+
+Capítulo • Arte geométrico (continuación) 
+
+Problema resumen 
+
+Usted y su estudiante pueden hablar sobre este problema resumen del Capítulo 0. 
+Es un buen problema para rever varias veces mientras avanzan en este capítulo. 
+
+¿Qué ideas de este capítulo ve en HotBlocks, la ilustración artística que aparece en la 
+página 24 y también a continuación? 
+
+
+
+
+HotBlocks, (1966-67), EdnaAndrade 
+
+© Edna Andrade, Museo de Arte de Filadelfia 
+
+comprado por el Philadelphia Foundation Fund. 
+
+Hable sobre estas preguntas con su estudiante desde el punto de vista de 
+un estudiante: 
+
+• ¿Qué tipos de simetría tiene la ilustración? 
+
+• ¿Qué tipos de simetría tiene cada bloque? 
+
+• ¿Puedes construir uno de los bloques con una regla no graduada y un compás? 
+
+• ¿Qué hizo el artista para que cada bloque pareciera tridimensional? 
+
+• ¿Podrías construir un dibujo distinto pero similar con una regla no graduada y 
+un compás? 
+
+• ¿Tu dibujo es más o menos elegante que éste? 
+
+• ¿Está bien hablar de elegancia en matemáticas? 
+
+Muchas de estas preguntas tienen varias respuestas válidas posibles. No importa 
+si usted no sabe todas las respuestas. En lugar de eso, mientras hablan sobre las 
+respuestas, asegúrese que su estudiante le dé buenas explicaciones de por qué una 
+respuesta es razonable. Por ejemplo, contestar "si" o "no" no es suficiente. Incítelo a 
+que también haga preguntas. 
+
+Ejemplo de respuestas 
+
+Si se ignora el sombreado, la ilustración tiene una simetría de rotación de orden 2, con 
+una recta de simetría vertical a través de la columna media de los bloques y una recta 
+de simetría horizontal entre las hileras del medio de los bloques. Si se ignora el 
+sombreado, cada bloque tiene un sistema de rotación de orden 3 y tres rectas de 
+reflexión. Los patrones de sombreado hacen que parezca tridimensional. Los dos 
+hexágonos que forman cada bloque pueden construirse: Comenzando con círculos y 
+usando sus radios para marcar seis arcos iguales en el círculo, los puntos se pueden 
+determinar puntos para dibujar hexágonos equiláteros con los cuales hacer los bloques. 
+
+Aunque la elegancia es cuestión de opinión, es aceptable hablar de elegancia en 
+cualquier disciplina. Esta ilustración podría considerarse elegante por su valor 
+artístico o por las matemáticas que exhibe. 
+
+
+
+Discovering Geometry: Una guía para los padres ©2008 Key Curriculum Press 
+
+
+
+Capítulo • Ejercicios de repaso 
+
+
+
+Nombre 
+
+
+
+Período 
+
+
+
+Fecha 
+
+
+
+1. (Lección 0.1) ¿Cuáles de los siguientes dibujos tienen simetría de 
+reflexión? Dibuja las rectas de simetría. ¿Cuáles de los dibujos tienen 
+simetría de rotación? 
+
+
+
+
+
+2. (Lección 0.2) Nombra las herramientas básicas de geometría. ¿Para qué se 
+usan estas herramientas? 
+
+3. (Lección 0.3) Usa tu compás para crear un dibujo de una margarita de 
+6 pétalos. Coloréalo de manera tal que tenga simetría de reflexión pero 
+no de rotación. 
+
+4. (Lección 0.4) Usa tu regla no graduada y una copia del dibujo de tu 
+margarita del Ejercicio 3 para hacer un hexágono regular. Úsalo para 
+hacer un bloque de la colcha amish con diseños de bloques que aparece 
+en la página 14. 
+
+
+
+©2008 Key Curriculum Press 
+
+
+
+Discovering Geometry: Una guía para los padres 
+
+
+
+SOLUCIONES DE LOS EJERCICIOS DE REPASO DEL CAPITULO 
+
+
+
+
+
+Rotación 
+
+
+
+
+Rotad ónyreflexión 
+
+
+
+
+Reflexión 
+
+
+
+Rotad ón y refl ed ón 
+
+El compás se usa para hacer círculos y marcar 
+distancias iguales y la regla no graduada se usa 
+para dibujar líneas rectas. 
+
+
+
+
+
+Pasol 
+
+
+
+Paso 2 
+
+
+
+
+
+Paso 3 
+
+
+
+Paso 4 
+
+
+
+
+
+Paso 5 
+
+
+
+Paso 6 
+
+
+
+Discovering Geometry: Una guía para los padres 
+
+
+
+©2008 Key Curriculum Press 
+
+
+
+
+Introducción a la geometría 
+
+Resumen del contenido 
+
+El Capítulo 1 presenta los fundamentos y vocabulario de geometría. Aunque se 
+refiere a muchas formas geométricas que los estudiantes ya han visto antes, hace 
+hincapié en lo que se necesita para poder formular buenas definiciones. Muchas de 
+estas investigaciones hacen participar a los estudiantes en el proceso de redacción de 
+definiciones presentándoles ejemplos visuales de formas que pertenecen a un grupo 
+y formas que no pertenecen al grupo, llamado los no ejemplos. Este proceso hace 
+que los estudiantes pasen de pensar en la apariencia general de las formas hacia 
+pensar en sus partes y en las clases de formas, por ejemplo, pensar en lo que todos 
+los rectángulos tienen en común y qué los hace rectángulos. Esto establece las bases 
+para entender las propiedades de la formas, un nivel superior de razonamiento que 
+pasa a ser cada vez más importante en los capítulos posteriores. 
+
+Definiciones 
+
+Una buena definición generalmente puede formularse como "Un \ término que se 
+trata de definir ] es un/a [grupo general] que [ tiene alguna característica] ". Por 
+ejemplo, considere la definición de triángulo. 
+
+Un triángulo es un polígono que tiene tres lados. 
+
+Para que esta definición sea clara debemos saber el significado de los términos 
+usados en la definición. ¿Qué significa polígono? ¿Qué significa lado de un polígono? 
+Todos los términos usados en una definición válida deberían ya estar previamente 
+definidos. Pero esto conlleva a un problema: ¿Por dónde empezamos? Debemos 
+ponernos de acuerdo de que algunos términos se entiendan sin ser definidos. 
+Entonces se pueden usar para definir la primera definición, que a su vez se puede 
+usar en otras definiciones. En geometría, estos términos sin definir son puntos, 
+recta y plano. A partir de estos términos, podemos definir otros términos, que 
+luego se pueden usar para definir los términos triángulo y ángulo en el ejemplo 
+original anterior. 
+
+Los puntos son colineares si están en la misma recta. 
+
+Un segmento de recta consiste de dos puntos (llamados extremos) y todos los 
+puntos comprendidos entre ellos que son colineares con los dos puntos. 
+
+Un polígono es una figura cerrada en un plano que se forma conectando segmentos 
+extremo con extremo (llamados vértices) con cada segmento intersecando 
+exactamente otros dos. 
+
+Un lado de un polígono es un segmento que conecta vértices consecutivos 
+del polígono. 
+
+Mientras que estas definiciones tal vez no estén descritas exactamente de la misma 
+forma que al principio de esta sección, la mayoría se basa en la clasificación del 
+término dentro de un grupo general, luego su diferenciación del grupo de acuerdo a 
+algunas características. 
+
+Ángulos 
+
+Además de definir ángulos, el libro habla sobre las medidas de los ángulos y les pide a 
+los estudiantes que escriban las definiciones de distintos tipos de ángulos (recto, 
+agudo, obtuso), así como pares especiales de ángulos (complementarios, 
+suplementarios, opuestos por el vértice, par linear). 
+
+Polígonos 
+
+El libro define polígono y le pide a los estudiantes que escriban las definiciones de 
+
+tipos especiales de polígonos (equilátero, equiángulo, regular). Los estudiantes (continúa) 
+
+©2008 Key Curriculum Press Discovering Geometry: Una guía para los padres 5 
+
+
+
+Capítulo 1 * Introducción a la geometría (continúa) 
+
+también definen distintos tipos de triángulos (rectángulo, agudo, obtuso, escaleno, 
+equilátero, isósceles) y cuadriláteros (trapecio, papalote, paralelogramo, rombo, 
+rectángulo, cuadrado). 
+
+Círculos 
+
+Un círculo es la serie de todos los puntos en un plano a una distancia dada desde un 
+punto dado. Los estudiantes repasan algunas partes del círculo (centro, radio, arco) y 
+definen otras partes (cuerda, diámetro, tangente). 

@@ -1,0 +1,39 @@
+La ingeniería hidráulica es la rama de la ingeniería civil que se ocupa de la proyección y ejecución de obras relacionadas con el agua, sea para su uso, como en la obtención de energía hidráulica, la irrigación, potabilización, canalización u otras, sea para la construcción de estructuras en mares, ríos, lagos, o entornos similares, incluyendo, por ejemplo, diques, represas, canales, puertos, muelles, esclusas, rompeolas, adecuación de entre otras construcciones. Ha generado el término ingeniería del agua.1​
+Áreas de actividad
+
+Los ingenieros hidráulicos se ocupan de diseñar, construir y operar las obras hidráulicas, valiéndose principalmente de la investigación, dado que la ingeniería hidráulica se sustenta, casi en un 90%, en resultados experimentales. Leonardo da Vinci afirmaba: «cuando trates con el agua, consulta primero la práctica, y luego la teoría». Mucho se ha avanzado desde entonces, por los dos caminos. Las formulaciones teóricas utilizan en todo momento los instrumentos matemáticos más avanzados de cada época, pero al final, siempre acaba apareciendo un coeficiente empírico, una fórmula empírica, que es llevada a la práctica para su posterior calibración, una vez hecho esto, se comprueba como todo ensayo experimental, la validación de dicha fórmula o coeficiente, permitiendo así resolver el problema práctico, y que fue determinada en función de experimentos, tanto de laboratorio, como en obras construidas y operantes.
+
+Los ingenieros hidráulicos se ocupan de:
+
+    Las llamadas grandes estructuras como, por ejemplo, presas, esclusas, canales navegables, puertos, etc.
+    Obras relacionadas con la agricultura, especialización de la ingeniería hidráulica, conocida como hidráulica agrícola (rama propia de ingeniería agrícola): sistemas de riego, sistemas de drenaje.
+    Obras relacionadas con el medio ambiente: presas filtrantes para el control de la erosión, obras de encauzamiento de ríos
+    obras relacionados con el suministro de agua potable , desde pozos, redes de distribución, construcción de captación y almacenamiento.
+
+Formación universitaria
+
+En algunas universidades existe la carrera de ingeniería hidráulica, en el Perú, la Universidad Nacional de Cajamarca cuenta con esta especialidad (vea [1], así como la Universidad Nacional Mayor de San Marcos con la Ingeniería Mecánica de Fluidos [2] que cuenta con 2 especialidades la de Termo fluidos e Hidráulica. El ingeniero Hidráulico se especializa en los temas que anteriormente se han tratado, enfocándose no únicamente en el desarrollo, sino también en el estudio de la localización adecuada de dichas estructuras. Recientemente con el desarrollo de softwares y la aplicación de algoritmos genéticos, la carrera de ingeniería hidráulica ha tenido un gran avance, permitiendo al ingeniero hidráulico encontrar soluciones que se alejan de las convencionales y que además de resultar viables, son económicamente más aceptables.
+
+Así mismo la carrera de ingeniería civil y de ingeniería agrícola estudian parte de la hidráulica, dentro de dichas carreras se divide después de los primeros 2 ó 3 años en diversas especialidades, una de las cuales es la hidráulica. A partir de esta división se van enfatizando temas diferentes para cada especialidad, manteniéndose sin embargo muchos temas comunes para todos los cursos de ingeniería civil.
+
+Tanto el ingeniero civil como el ingeniero agrícola durante su formación universitaria toman simultáneamente el curso de mecánica de fluidos (precedido por cuatro niveles de cálculo, dos de física y por estática y dinámica), luego toman un curso de hidráulica de tuberías o flujo a presión y posteriormente un curso de hidráulica de canales abiertos, así como un curso de hidrología. Después, el ingeniero civil toma cursos de acueductos, alcantarillados e ingeniería de puertos y costas, mientras que el ingeniero agrícola toma cursos de diseño de sistemas de riego, diseño de sistemas de drenaje y paralelamente con el ingeniero civil cursos de estructuras hidráulicas.
+
+Mientras que el ingeniero hidráulico además de cursar las materias que el ingeniero civil y el ingeniero agrícola toman, continúa estudiando materias como: Laboratorio de hidráulica, sistemas de información geográfica (SIG), hidráulica de canales, hidrología subterránea, hidráulica de pozos e impacto ambiental, perfeccionando de este modo los métodos que a la fecha se desarrollan. Pues a pesar de los avances que se han realizado años atrás, en épocas recientes se han llevado a cabo un sin fin de estudios que han revelado que los métodos para el estudio y desarrollo de dicha área se muestran ambiguos y requieren ser perfeccionados″. Gracias a la tecnología esto está siendo posible.
+Ramas de la ingeniería hidráulica
+
+Los temas tratados por la ingeniería hidráulica, siendo muy amplios, naturalmente permiten la especialización en los diversos temas. Estas especializaciones se logran mediante cursos de licenciatura, post-grado, maestrías, y doctorados. Algunas de estas ramas se presentan a seguir.
+Ingeniería fluvial
+
+El ingeniero hidráulico con especialización en hidráulica fluvial estudia las intervenciones del hombre sobre los ríos, ya sea para la adecuación al sistema de aprovechamientos del recurso hídrico, la disminución de riesgos de daños por inundación, o bien por la intersección del río con una obra de infraestructura (carretera, ferrocarril, conducciones, etc.).2​
+
+El ingeniero fluvial debe tener también conocimientos de hidrología, transporte sólido, dinámica fluvial y geomorfología fluvial.
+Ingeniería sanitaria
+Artículo principal: Ingeniería sanitaria
+
+La ingeniería sanitaria, por su importancia, es considerada en muchos países como una carrera separada, en otros países es considerada una especialización de la ingeniería hidráulica. Se ocupa de diseñar, construir y operar:
+
+    Sistemas de abastecimiento de agua potable, en todos sus componentes, destinados a la captación, del agua desde ríos o lagos, relacionándose aquí con la ingeniería fluvial, hasta la distribución del agua potabilizada a los usuarios.
+    Sistemas de alcantarillado sanitario y plantas de tratamiento de aguas servidas, incluyendo las estructuras destinadas a la devolución del agua ya tratada adecuadamente al ambiente.
+    Sistemas de gestión integral de residuos sólidos.
+
+El Ingeniero sanitario tiene sólidos conocimientos de hidráulica, y además domina los procesos físico químicos y bacteriológicos relacionados con el tratamiento del agua, tanto para su potabilización, como para su descontaminación antes de ser devuelta al ambiente.

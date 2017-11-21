@@ -1,0 +1,25 @@
+La ingeniería aeroespacial es una rama de la ingeniería que estudia a las aeronaves; engloba a los ámbitos de la actual ingeniería aeronáutica, relacionada con el diseño de sistemas que vuelan en la atmósfera y de la ingeniería espacial, entendiendo por esta última aquella que se ocupa del diseño de los vehículos impulsores y de los artefactos que serán colocados en el espacio exterior. Mientras que la ingeniería aeronáutica fue el término original, el término más amplio "aeroespacial" lo ha sustituido en el uso.1​
+Ingeniería aeronáutica
+
+La ingeniería aeronáutica consiste en la aplicación de la tecnología al diseño, construcción o fabricación y la utilización de artefactos capaces de volar o aerodinos —principalmente aviones o aeronaves, misiles y equipos espaciales— y en los aspectos técnicos y científicos de la navegación aérea y los instrumentos de los cuales se sirve ésta.
+
+La ingeniería aeronáutica se ocupa de diseñar y construir las aeroestructuras de los aviones y helicópteros tomando en consideración las leyes de la aerodinámica, los fundamentos de la mecánica de fluidos y la ingeniería estructural. Además se encargan de la integración de los elementos motores (alternativos, turbofanes, turborreactores y turboejes) en las aeroestructuras para construir la aeronave. Otros campos de actividad de los ingenieros aeronáuticos son la construcción de aeropuertos, el diseño y operación de redes de transporte aeronáutico y la fabricación de equipos y materiales especiales como armamento, satélites o cohetes espaciales.
+Profesión
+Artículo principal: Anexo:Ingenieros aeroespaciales
+
+Un ingeniero aeroespacial se encarga de calcular, diseñar, proyectar, optimizar y modificar equipos y sistemas mecánicos utilizados por la industria aeronáutica y espacial, incluidos sus procesos de producción o manufactura, además de evaluar, planificar, dirigir, optimizar y ejecutar proyectos de ingeniería en un contexto multidisciplinario.
+
+Algunos de los elementos que le competen a esta carrera son:
+
+    Ingeniería mecánica: estudia los procesos de fabricaciones, mantenimientos y diseño de aeronaves.
+    Astrodinámica: Es la ciencia que estudia el comportamiento de los objetos, naturales y artificiales, en el espacio.
+    Aerodinámica: Es el estudio del movimiento de fluidos alrededor de las alas u otros objetos, o a través de túneles de viento (vea también sustentación y aeronáutica)
+    Propulsión - Es la energía necesaria para trasladar un vehículo a través del aire, o para el espacio exterior. Es generada por motores de combustión (usando diferentes mezclas de sustancias como gasolina, oxígeno e hidrógeno) tanto a reacción como alternativos.
+    Estructura: Es el estudio del diseño de la configuración física de la nave para soportar las fuerzas encontradas en el vuelo. Generalmente se busca mantener el peso más ligero posible para obtener un mejor rendimiento.
+    Ingeniería de los materiales: Se ocupa de los materiales con los que se construyen las estructuras aeroespaciales. Desarrolla nuevos materiales y modifica materiales existentes para adecuar sus propiedades a una aplicación específica.
+    Aeroelasticidad - la interacción de fuerzas aerodinámicas y flexibilidad estructural, potencialmente causando agitaciones, separaciones, etc
+    Informática - específicamente concierne al diseño y programación de cualquier sistema de computación a bordo de una aeronave o una nave espacial y a la simulación de sistemas.
+
+El fundamento de la mayoría de estos elementos está en matemática teórica, como la dinámica de fluidos para la aerodinámica o las ecuaciones de movimientos para la dinámica de vuelo. Pero también existe un gran componente empírico. En la historia, este componente empírico fue derivado de las pruebas con modelos a escala y con prototipos, ya hayan sido en túneles de viento o en atmósferas libres. Más recientemente, los avances en computación han permitido el uso de dinámicas de fluido computarizados para simular el comportamiento del fluido, reduciendo tiempo y gasto en pruebas en el túnel de viento.
+
+Además, la ingeniería aeroespacial presta atención en la integración de todos los componentes que constituyen un vehículo aeronáutico (subsistemas que incluyen el de poder, comunicaciones, el de control térmico, mantenimiento de vida, etcétera) y su ciclo de vida (diseño, temperatura, presión, radiación, velocidad, y vida útil), así topándose con retos extraordinarios y soluciones específicas del dominio de sistemas de la ingeniería aeroespacial.
