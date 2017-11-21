@@ -17,8 +17,9 @@ Finalmente mide la frecuencia de aparicion de cada palabra, y crea un diccionari
 
 ### Bayes.py
 Contiene el modelo multinomial, entrenado a partir del diccionario generado por Preprocess.py.
-Crea tantos vectores como clases de textos hayan (Ciencias, ingenieria...), y el largo de los vectores es el minimo necesario para recoger todas las palabras empleadas en todos los grupos.
+Crea tantos vectores como clases de textos hayan (Ciencias, ingenieria...), y el largo de los vectores es el minimo necesario para recoger todas las palabras empleadas en todos los grupos. 
 Se eliminan las palabras bajo un minimo umbral de desviacion tipica, porque no tendrian mucho peso en la clasificacion.
-Este mismo archivo genera las predicciones para un texto determinado
+Los vectores se guardan en VECTORS.PICKLE, y el modelo multinomial entrenado con estos vectores en MULTINOMIAL.PICKLE.
+Este mismo archivo, Bayes.py, genera las predicciones para un texto determinado
 
 
